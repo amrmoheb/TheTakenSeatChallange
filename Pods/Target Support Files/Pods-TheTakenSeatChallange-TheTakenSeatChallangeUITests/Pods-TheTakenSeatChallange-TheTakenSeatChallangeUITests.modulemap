@@ -1,0 +1,6 @@
+framework module Pods_TheTakenSeatChallange_TheTakenSeatChallangeUITests {
+  umbrella header "Pods-TheTakenSeatChallange-TheTakenSeatChallangeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
